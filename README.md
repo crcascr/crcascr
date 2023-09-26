@@ -1,7 +1,7 @@
 ### Hola, mi nombre es Cristian Castillo 👋
 
 Soy un ingeniero eléctrico con una especial pasión por la programación.
-Estoy iniciando mi camino en el mundo de la programación con Python 🐍, PHP 🐘, mySQL 🐬 y algo de Cybersecurity.
+Estoy iniciando mi camino en el mundo de la programación con Python 🐍, PHP 🐘, mySQL 🐬, JavaScript 🟨, React ⚛️ y algo de Cybersecurity.
 
 ¡Lets enjoy this road 🌟!
 
